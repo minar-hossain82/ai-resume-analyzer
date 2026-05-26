@@ -1,0 +1,6 @@
+streamlit
+pandas
+pyresparser
+nltk
+pymysql
+geocoder
